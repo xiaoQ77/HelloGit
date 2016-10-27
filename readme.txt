@@ -8,3 +8,5 @@ Love TensorFlow.
 Git has a mutable index called stage.
 
 Git tracks changes of files rather than files.
+
+Git branch merges.
